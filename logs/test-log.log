@@ -1,0 +1,157 @@
+2026-04-02 19:43:34 INFO  LoggerUtils:10 - Launched the application 
+2026-04-02 19:43:34 INFO  LoggerUtils:10 - Test case - bookMovie execution started
+2026-04-02 19:43:35 INFO  LoggerUtils:10 - Clicked on Search image on Home page
+2026-04-02 19:43:35 INFO  LoggerUtils:18 - Element is not displayed
+2026-04-02 19:43:35 INFO  LoggerUtils:10 - Clicked on Mivie link
+2026-04-02 19:43:35 INFO  LoggerUtils:10 - EnterdDhurandhar in the search box
+2026-04-02 19:43:35 INFO  LoggerUtils:14 - Search results the correct Movie detail
+2026-04-02 19:43:37 INFO  LoggerUtils:10 - Clicked on the search result
+2026-04-02 19:43:37 INFO  LoggerUtils:14 - Movie details page opened successfully
+2026-04-02 19:43:37 INFO  LoggerUtils:10 - Test case - bookMovie execution completed
+2026-04-02 19:43:37 INFO  LoggerUtils:10 - Browser closed successfully
+2026-04-02 21:00:44 INFO  LoggerUtils:10 - Launched the application 
+2026-04-02 21:00:44 INFO  LoggerUtils:10 - Browser closed successfully
+2026-04-02 21:01:28 INFO  LoggerUtils:10 - Launched the application 
+2026-04-02 21:01:28 INFO  LoggerUtils:10 - Test case - bookMovie execution started
+2026-04-02 21:01:28 INFO  LoggerUtils:10 - Clicked on Search image on Home page
+2026-04-02 21:01:28 INFO  LoggerUtils:18 - Element is not displayed
+2026-04-02 21:01:28 INFO  LoggerUtils:10 - Clicked on Mivie link
+2026-04-02 21:01:28 INFO  LoggerUtils:18 - Element is not displayed
+2026-04-02 21:01:28 INFO  LoggerUtils:10 - EnterdDhurandhar in the search box
+2026-04-02 21:01:28 INFO  LoggerUtils:14 - Search results the correct Movie detail
+2026-04-02 21:01:30 INFO  LoggerUtils:10 - Clicked on the search result
+2026-04-02 21:01:30 INFO  LoggerUtils:14 - Movie details page opened successfully
+2026-04-02 21:01:30 INFO  LoggerUtils:10 - Selecting date:Sunday
+2026-04-02 21:01:30 INFO  LoggerUtils:10 - Checking date option:User Avatar
+2026-04-02 21:01:30 INFO  LoggerUtils:10 - Checking date option:Thursday2
+2026-04-02 21:01:30 INFO  LoggerUtils:10 - Checking date option:Friday3
+2026-04-02 21:01:30 INFO  LoggerUtils:10 - Checking date option:Saturday4
+2026-04-02 21:01:30 INFO  LoggerUtils:10 - Checking date option:Sunday5
+2026-04-02 21:01:31 INFO  LoggerUtils:14 - Clicked date:Sunday5
+2026-04-02 21:01:31 INFO  LoggerUtils:10 - Applying filter:IMAX
+2026-04-02 21:01:31 INFO  LoggerUtils:10 - Checking Filter option:Filters
+2026-04-02 21:01:31 INFO  LoggerUtils:10 - Checking Filter option:IMAX 2D
+2026-04-02 21:01:31 INFO  LoggerUtils:14 - Selected filter:IMAX 2D
+2026-04-02 21:01:31 INFO  LoggerUtils:10 - Test case - bookMovie execution completed
+2026-04-02 21:01:31 INFO  LoggerUtils:10 - Browser closed successfully
+2026-04-02 21:03:08 INFO  LoggerUtils:10 - Launched the application 
+2026-04-02 21:03:08 INFO  LoggerUtils:10 - Test case - bookMovie execution started
+2026-04-02 21:03:08 INFO  LoggerUtils:10 - Clicked on Search image on Home page
+2026-04-02 21:03:08 INFO  LoggerUtils:18 - Element is not displayed
+2026-04-02 21:03:08 INFO  LoggerUtils:10 - Clicked on Mivie link
+2026-04-02 21:03:08 INFO  LoggerUtils:18 - Element is not displayed
+2026-04-02 21:03:08 INFO  LoggerUtils:10 - EnterdDhurandhar in the search box
+2026-04-02 21:03:08 INFO  LoggerUtils:14 - Search results the correct Movie detail
+2026-04-02 21:03:10 INFO  LoggerUtils:10 - Clicked on the search result
+2026-04-02 21:03:10 INFO  LoggerUtils:14 - Movie details page opened successfully
+2026-04-02 21:03:10 INFO  LoggerUtils:10 - Selecting date:Sunday
+2026-04-02 21:03:10 INFO  LoggerUtils:10 - Checking date option:User Avatar
+2026-04-02 21:03:10 INFO  LoggerUtils:10 - Checking date option:Thursday2
+2026-04-02 21:03:10 INFO  LoggerUtils:10 - Checking date option:Friday3
+2026-04-02 21:03:10 INFO  LoggerUtils:10 - Checking date option:Saturday4
+2026-04-02 21:03:10 INFO  LoggerUtils:10 - Checking date option:Sunday5
+2026-04-02 21:03:10 INFO  LoggerUtils:14 - Clicked date:Sunday5
+2026-04-02 21:03:10 INFO  LoggerUtils:10 - Applying filter:IMAX
+2026-04-02 21:03:10 INFO  LoggerUtils:10 - Checking Filter option:Filters
+2026-04-02 21:03:10 INFO  LoggerUtils:10 - Checking Filter option:IMAX 2D
+2026-04-02 21:03:10 INFO  LoggerUtils:14 - Selected filter:IMAX 2D
+2026-04-02 21:03:10 INFO  LoggerUtils:10 - Test case - bookMovie execution completed
+2026-04-02 21:03:11 INFO  LoggerUtils:10 - Browser closed successfully
+2026-04-02 21:05:44 INFO  LoggerUtils:10 - Launched the application 
+2026-04-02 21:05:44 INFO  LoggerUtils:10 - Test case - bookMovie execution started
+2026-04-02 21:05:44 INFO  LoggerUtils:10 - Clicked on Search image on Home page
+2026-04-02 21:05:44 INFO  LoggerUtils:18 - Element is not displayed
+2026-04-02 21:05:44 INFO  LoggerUtils:10 - Clicked on Mivie link
+2026-04-02 21:05:44 INFO  LoggerUtils:18 - Element is not displayed
+2026-04-02 21:05:44 INFO  LoggerUtils:10 - EnterdDhurandhar in the search box
+2026-04-02 21:05:44 INFO  LoggerUtils:14 - Search results the correct Movie detail
+2026-04-02 21:05:45 INFO  LoggerUtils:10 - Clicked on the search result
+2026-04-02 21:05:45 INFO  LoggerUtils:14 - Movie details page opened successfully
+2026-04-02 21:05:45 INFO  LoggerUtils:10 - Selecting date:Sunday
+2026-04-02 21:05:45 INFO  LoggerUtils:10 - Checking date option:User Avatar
+2026-04-02 21:05:45 INFO  LoggerUtils:10 - Checking date option:Thursday2
+2026-04-02 21:05:45 INFO  LoggerUtils:10 - Checking date option:Friday3
+2026-04-02 21:05:45 INFO  LoggerUtils:10 - Checking date option:Saturday4
+2026-04-02 21:05:45 INFO  LoggerUtils:10 - Checking date option:Sunday5
+2026-04-02 21:05:46 INFO  LoggerUtils:14 - Clicked date:Sunday5
+2026-04-02 21:05:46 INFO  LoggerUtils:10 - Applying filter:IMAX
+2026-04-02 21:05:46 INFO  LoggerUtils:10 - Checking Filter option:Filters
+2026-04-02 21:05:46 INFO  LoggerUtils:10 - Checking Filter option:IMAX 2D
+2026-04-02 21:05:46 INFO  LoggerUtils:14 - Selected filter:IMAX 2D
+2026-04-02 21:05:46 INFO  LoggerUtils:10 - Test case - bookMovie execution completed
+2026-04-02 21:05:46 INFO  LoggerUtils:10 - Browser closed successfully
+2026-04-03 15:11:13 INFO  LoggerUtils:10 - Launched the application
+2026-04-03 15:11:13 INFO  LoggerUtils:10 - Test case - bookMovie execution started
+2026-04-03 15:11:13 INFO  LoggerUtils:10 - Clicked on Search icon
+2026-04-03 15:11:13 ERROR LoggerUtils:18 - Element is not displayed
+2026-04-03 15:11:13 INFO  LoggerUtils:10 - Clicked on Movies link
+2026-04-03 15:11:13 ERROR LoggerUtils:18 - Element is not displayed
+2026-04-03 15:11:13 INFO  LoggerUtils:10 - Entered Dhurandhar in the search editbox
+2026-04-03 15:11:13 INFO  LoggerUtils:10 - Extracted Search Result text as Dhurandhar The Revenge
+2026-04-03 15:11:13 INFO  LoggerUtils:10 - Closed the browser
+2026-04-03 15:11:18 INFO  LoggerUtils:10 - Launched the application
+2026-04-03 15:11:18 INFO  LoggerUtils:10 - Test case - bookMovie execution started
+2026-04-03 15:11:18 INFO  LoggerUtils:10 - Clicked on Search icon
+2026-04-03 15:11:18 ERROR LoggerUtils:18 - Element is not displayed
+2026-04-03 15:11:18 INFO  LoggerUtils:10 - Clicked on Movies link
+2026-04-03 15:11:19 ERROR LoggerUtils:18 - Element is not displayed
+2026-04-03 15:11:19 INFO  LoggerUtils:10 - Entered Dhurandhar in the search editbox
+2026-04-03 15:11:19 INFO  LoggerUtils:10 - Extracted Search Result text as Dhurandhar The Revenge
+2026-04-03 15:11:19 ERROR LoggerUtils:18 - Screenshot captured for failed test case: bookMovie
+2026-04-03 15:11:19 INFO  LoggerUtils:10 - Closed the browser
+2026-04-03 15:12:45 INFO  LoggerUtils:10 - Launched the application
+2026-04-03 15:12:45 INFO  LoggerUtils:10 - Test case - bookMovie execution started
+2026-04-03 15:12:45 INFO  LoggerUtils:10 - Clicked on Search icon
+2026-04-03 15:12:45 ERROR LoggerUtils:18 - Element is not displayed
+2026-04-03 15:12:45 INFO  LoggerUtils:10 - Clicked on Movies link
+2026-04-03 15:12:45 ERROR LoggerUtils:18 - Element is not displayed
+2026-04-03 15:12:45 INFO  LoggerUtils:10 - Entered Dhurandhar in the search editbox
+2026-04-03 15:12:46 INFO  LoggerUtils:10 - Extracted Search Result text as Dhurandhar The Revenge
+2026-04-03 15:12:46 INFO  LoggerUtils:10 - Closed the browser
+2026-04-03 15:12:51 INFO  LoggerUtils:10 - Launched the application
+2026-04-03 15:12:51 INFO  LoggerUtils:10 - Test case - bookMovie execution started
+2026-04-03 15:12:51 INFO  LoggerUtils:10 - Clicked on Search icon
+2026-04-03 15:12:51 ERROR LoggerUtils:18 - Element is not displayed
+2026-04-03 15:12:51 INFO  LoggerUtils:10 - Clicked on Movies link
+2026-04-03 15:12:51 INFO  LoggerUtils:10 - Entered Dhurandhar in the search editbox
+2026-04-03 15:12:51 INFO  LoggerUtils:10 - Extracted Search Result text as Dhurandhar The Revenge
+2026-04-03 15:12:51 ERROR LoggerUtils:18 - Screenshot captured for failed test case: bookMovie
+2026-04-03 15:12:52 INFO  LoggerUtils:10 - Closed the browser
+2026-04-21 16:30:28 INFO  LoggerUtils:10 - Launched the application
+2026-04-21 16:30:28 INFO  LoggerUtils:10 - Test case - bookMovie execution started
+2026-04-21 16:30:28 INFO  LoggerUtils:10 - Clicked on Search icon
+2026-04-21 16:30:28 ERROR LoggerUtils:18 - Element is not displayed
+2026-04-21 16:30:28 INFO  LoggerUtils:10 - Clicked on Movies link
+2026-04-21 16:30:28 ERROR LoggerUtils:18 - Element is not displayed
+2026-04-21 16:30:28 INFO  LoggerUtils:10 - Entered Dhurandhar in the search editbox
+2026-04-21 16:30:28 INFO  LoggerUtils:10 - Extracted Search Result text as Bhooth Bangla
+2026-04-21 16:30:28 INFO  LoggerUtils:10 - Closed the browser
+2026-04-21 16:30:34 INFO  LoggerUtils:10 - Launched the application
+2026-04-21 16:30:34 INFO  LoggerUtils:10 - Test case - bookMovie execution started
+2026-04-21 16:30:34 INFO  LoggerUtils:10 - Clicked on Search icon
+2026-04-21 16:30:34 ERROR LoggerUtils:18 - Element is not displayed
+2026-04-21 16:30:34 INFO  LoggerUtils:10 - Clicked on Movies link
+2026-04-21 16:30:34 ERROR LoggerUtils:18 - Element is not displayed
+2026-04-21 16:30:34 INFO  LoggerUtils:10 - Entered Dhurandhar in the search editbox
+2026-04-21 16:30:35 INFO  LoggerUtils:10 - Extracted Search Result text as Bhooth Bangla
+2026-04-21 16:30:35 ERROR LoggerUtils:18 - Screenshot captured for failed test case: bookMovie
+2026-04-21 16:30:35 INFO  LoggerUtils:10 - Closed the browser
+2026-04-21 16:31:29 INFO  LoggerUtils:10 - Launched the application
+2026-04-21 16:31:29 INFO  LoggerUtils:10 - Test case - bookMovie execution started
+2026-04-21 16:31:29 INFO  LoggerUtils:10 - Clicked on Search icon
+2026-04-21 16:31:29 ERROR LoggerUtils:18 - Element is not displayed
+2026-04-21 16:31:29 INFO  LoggerUtils:10 - Clicked on Movies link
+2026-04-21 16:31:29 ERROR LoggerUtils:18 - Element is not displayed
+2026-04-21 16:31:29 INFO  LoggerUtils:10 - Entered Dhurandhar in the search editbox
+2026-04-21 16:31:29 INFO  LoggerUtils:10 - Extracted Search Result text as Bhooth Bangla
+2026-04-21 16:31:29 INFO  LoggerUtils:10 - Closed the browser
+2026-04-21 16:31:35 INFO  LoggerUtils:10 - Launched the application
+2026-04-21 16:31:35 INFO  LoggerUtils:10 - Test case - bookMovie execution started
+2026-04-21 16:31:36 INFO  LoggerUtils:10 - Clicked on Search icon
+2026-04-21 16:31:36 ERROR LoggerUtils:18 - Element is not displayed
+2026-04-21 16:31:36 INFO  LoggerUtils:10 - Clicked on Movies link
+2026-04-21 16:31:36 ERROR LoggerUtils:18 - Element is not displayed
+2026-04-21 16:31:36 INFO  LoggerUtils:10 - Entered Dhurandhar in the search editbox
+2026-04-21 16:31:36 INFO  LoggerUtils:10 - Extracted Search Result text as Bhooth Bangla
+2026-04-21 16:31:36 ERROR LoggerUtils:18 - Screenshot captured for failed test case: bookMovie
+2026-04-21 16:31:36 INFO  LoggerUtils:10 - Closed the browser
