@@ -155,3 +155,21 @@
 2026-04-21 16:31:36 INFO  LoggerUtils:10 - Extracted Search Result text as Bhooth Bangla
 2026-04-21 16:31:36 ERROR LoggerUtils:18 - Screenshot captured for failed test case: bookMovie
 2026-04-21 16:31:36 INFO  LoggerUtils:10 - Closed the browser
+2026-04-23 15:52:45 INFO  LoggerUtils:10 - Launched the application
+2026-04-23 15:52:45 INFO  LoggerUtils:10 - Test case - bookMovie execution started
+2026-04-23 15:52:45 INFO  LoggerUtils:10 - Clicked on Search icon
+2026-04-23 15:52:45 ERROR LoggerUtils:18 - Element is not displayed
+2026-04-23 15:52:45 INFO  LoggerUtils:10 - Clicked on Movies link
+2026-04-23 15:52:45 INFO  LoggerUtils:10 - Entered Dhurandhar in the search editbox
+2026-04-23 15:52:45 INFO  LoggerUtils:10 - Extracted Search Result text as Bhooth Bangla
+2026-04-23 15:52:45 INFO  LoggerUtils:10 - Closed the browser
+2026-04-23 15:52:51 INFO  LoggerUtils:10 - Launched the application
+2026-04-23 15:52:51 INFO  LoggerUtils:10 - Test case - bookMovie execution started
+2026-04-23 15:52:51 INFO  LoggerUtils:10 - Clicked on Search icon
+2026-04-23 15:52:51 ERROR LoggerUtils:18 - Element is not displayed
+2026-04-23 15:52:51 INFO  LoggerUtils:10 - Clicked on Movies link
+2026-04-23 15:52:51 ERROR LoggerUtils:18 - Element is not displayed
+2026-04-23 15:52:51 INFO  LoggerUtils:10 - Entered Dhurandhar in the search editbox
+2026-04-23 15:52:52 INFO  LoggerUtils:10 - Extracted Search Result text as Bhooth Bangla
+2026-04-23 15:52:52 ERROR LoggerUtils:18 - Screenshot captured for failed test case: bookMovie
+2026-04-23 15:52:52 INFO  LoggerUtils:10 - Closed the browser
